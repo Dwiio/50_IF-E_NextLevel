@@ -1,0 +1,52 @@
+{
+  "source_file_name": "data-kendaraan-operasional-penanggulangan-kebakaran-dan-penyelamatan-komponen-data.xls",
+  "source_file_actual_format": "HTML table (file extension .xls)",
+  "source_rows": 1153,
+  "source_columns": 10,
+  "source_column_names": [
+    "periode_data",
+    "wilayah",
+    "kecamatan",
+    "kelurahan",
+    "jenis_kendaraan",
+    "klasifikasi",
+    "fungsi",
+    "plat_nomor",
+    "penempatan",
+    "Kondisi"
+  ],
+  "source_missing_by_column": {
+    "periode_data": 0,
+    "wilayah": 0,
+    "kecamatan": 0,
+    "kelurahan": 0,
+    "jenis_kendaraan": 0,
+    "klasifikasi": 0,
+    "fungsi": 0,
+    "plat_nomor": 5,
+    "penempatan": 0,
+    "Kondisi": 0
+  },
+  "source_exact_duplicate_rows": 0,
+  "source_missing_total": 5,
+  "source_target_distribution": {
+    "BAIK": 984,
+    "RUSAK": 169
+  },
+  "sanitized_rows": 1153,
+  "sanitized_columns": [
+    "periode_data",
+    "wilayah",
+    "kecamatan",
+    "kelurahan",
+    "jenis_kendaraan",
+    "klasifikasi",
+    "fungsi",
+    "penempatan",
+    "Kondisi"
+  ],
+  "sanitized_removed_column": "plat_nomor",
+  "reason_removed": "identifier aset tidak digunakan sebagai prediktor dan dihilangkan untuk mengurangi paparan identitas kendaraan",
+  "source_download_note": "Audit ini dihitung dari salinan sumber yang tersedia saat penyusunan. File mentah tidak disertakan dalam repositori karena memuat plat_nomor; angka audit disimpan agar keputusan sanitasi dapat ditelusuri.",
+  "license_status": "Terbuka; berhasil diverifikasi pada metadata dataset yang dapat diakses. Halaman umum Satu Data Jakarta menyatakan bahwa data pada portal dapat dimanfaatkan dan digunakan kembali."
+}
