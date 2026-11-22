@@ -60,13 +60,3 @@ Pengujian menggunakan pembagian data latih dan data uji dengan rasio 80:20. SVM 
 
 ## Catatan kualitas data
 Setelah kolom `plat_nomor` dikeluarkan, terdapat sejumlah baris yang memiliki nilai sama pada seluruh kolom tersisa. Baris tersebut tetap dipertahankan karena kesamaan atribut tidak membuktikan bahwa catatan berasal dari kendaraan yang sama. Penghapusan tanpa pengenal kendaraan dapat menyebabkan jumlah unit yang tercatat berkurang secara keliru.
-
-## Kontribusi anggota
-Bagian ini perlu dilengkapi berdasarkan pembagian pekerjaan yang benar-benar dilakukan oleh setiap anggota kelompok.
-
-| Anggota | Kontribusi |
-|---|---|
-| Dwirizki Adithya Putra — 123240021 | Diisi berdasarkan pekerjaan aktual |
-| Satya Dio Putranto — 123240121 | Diisi berdasarkan pekerjaan aktual |
-| Sebastian Alvaro Huller — 123240162 | Diisi berdasarkan pekerjaan aktual |
-| Paksi Dwirangga — 123240172 | Diisi berdasarkan pekerjaan aktual |
